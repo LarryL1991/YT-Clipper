@@ -9,6 +9,7 @@ yt-dl seems to be broken so this project is no longer functional. It would be ea
 # Progress videos
 
 # Video 1
+19 February, 2021
 I simply show that I can run the application in conjunction with a spawned command line to ping "bing.com" and receive the output from the ping.  
 https://www.youtube.com/watch?v=Yeo3gORIcs4
 
