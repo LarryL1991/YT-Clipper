@@ -1,6 +1,6 @@
 # YT-Clipper
 
-I started this project on the 19th of February 2021 to see if I could make a simple app with c#. You can see my progress that I made in the youtube videos below.
+I started this project on the 2021-02-19 to see if I could make a simple app with c#. You can see my progress that I made in the youtube videos below.
 
 The project is simple enough. It used the executable from yt-dl.org in conjunction with FFMPEG to download a youtube video and trim it to specifications.
 
